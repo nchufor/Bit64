@@ -1,4 +1,4 @@
-# How to base64 encode and decode from command-line
+# How to use base64 encode and decode from command-line
 
 Base64 encoding and decoding data has many use cases. One being is ensuring data integrity when transferring data over the network, while another is storing Secrets in Kubernetes.
 
